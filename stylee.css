@@ -186,7 +186,7 @@ small{
 	border-radius: 50%;
 }
 .testimonial .col-3:hover{
-	transform: translateY(-10px);
+	transform: translateX(-10px);
 }
 .col-3 p{
 	font-size: 12px;
