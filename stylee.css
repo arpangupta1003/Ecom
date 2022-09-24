@@ -82,7 +82,7 @@ p{
 	margin-top: 40px;
 	border-radius: 100000px;
 	transition: background 0.15s;
-	transform: translateY(-10px);
+	transform: translateX(-10px);
 }
 /*.btn:hover{
 	background: #563434;
